@@ -1,4 +1,4 @@
-# Computer_Vision
+# Computer Vision
 # AI & Computer Vision Assignments Repository  
 
 ##  Overview  
