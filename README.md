@@ -15,6 +15,4 @@ This repository showcases my practical assignments and projects in **Artificial 
 ## 🛠️ Tech Stack  
 - **Programming Languages**: Python  
 - **Libraries & Frameworks**: TensorFlow, PyTorch, OpenCV, Scikit-learn, NumPy, Pandas  
-- **Tools**: Jupyter Notebook, Google Colab, Git  
-
-## 📂 Repository Structure  
+- **Tools**: Jupyter Notebook, Google Colab, Git 
